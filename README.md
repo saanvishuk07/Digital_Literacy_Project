@@ -88,7 +88,7 @@ Also created a checklist including:
 ---
 
 ## 🔗 Google Form Link
-[Click here to view the form](https://docs.google.com/forms/d/e/1FAIpQLSe_OmSOCOSJ3Nqp8ygqSgslKB0radVwUUJcBFlm-zz2QJm8vQ/viewform?usp=header)
+[Click here to view the form]https://forms.gle/CzgbTDyDgBkbaKGm7
 
 ---
 
