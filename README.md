@@ -55,15 +55,15 @@ An infographic was created using **Canva** to spread awareness about digital lit
 ###  Task 2: Digital Portfolio
 Profiles were created and updated on:
 - GitHub  
-- Kaggle  
-- CodeChef  
+- Linkedin
+- Stack Overflow 
 
 These platforms help in building a professional identity and showcasing skills.
 
 ---
 
 ###  Task 3: Coding & Collaboration Platforms
-- Solved a beginner-level coding problem on HackerRank  
+- Solved a beginner-level coding problem on CodeChef  
 - Created a Google Form quiz on digital literacy  
 - Analyzed responses using Google Sheets  
 
@@ -105,7 +105,7 @@ Through this project, I have:
 ##  References
 - Canva  
 - GitHub  
-- Kaggle  
+- LinkedIn  
 - Stack Overflow  
 - Google Forms  
 - National Cyber Crime Portal (https://cybercrime.gov.in)  
