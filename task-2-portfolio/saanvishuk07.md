@@ -1,6 +1,6 @@
-# 📘 Digital Literacy Project
+#  Digital Literacy Project
 
-## 👩‍🎓 Student Details
+##  Student Details
 - **Name:** Saanvi Shukla 
 - **Registration Number:** 25AI10111  
 - **Branch:** B.Tech CSE (Artificial Intelligence and Machine Learning)  
@@ -8,7 +8,7 @@
 
 ---
 
-## 📚 Course Details
+##  Course Details
 - **Course Code:** CSE0001  
 - **Course Title:** Digital Literacy  
 
